@@ -15,8 +15,9 @@
   },
   "dependencies": {
     "@emotion/react": "^11.1.5",
-    "gatsby": "^2.32.5",
+    "gatsby": "^2.32.8",
     "gatsby-plugin-emotion": "^5.4.0",
+    "gatsby-plugin-google-gtag": "^2.8.0",
     "gatsby-plugin-manifest": "^2.12.1",
     "gatsby-plugin-offline": "^3.10.2",
     "gatsby-plugin-react-helmet": "^3.10.0",
